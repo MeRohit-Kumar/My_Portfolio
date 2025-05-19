@@ -1,2 +1,21 @@
-# My_Portfolio
-A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and resume. This responsive website includes sections like About Me, Projects, Skills, Contact, and a custom 404 page. Designed to reflect my work and passion as a web developer.
+# Portfolio Website
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It highlights my profile, skills, projects, and contact information.
+
+## 🚀 Features
+- Responsive design for desktop and mobile
+- Animated background and interactive UI
+- Skills section powered by JSON data
+- Custom 404 error page
+- Lightweight and fast-loading
+
+## 📁 Folder Structure
+- `assets/` – Contains all CSS, JS, and image assets
+- `index.html` – Main landing page
+- `skills.json` – Skills data used in the Skills section
+
+## 🔧 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Json
