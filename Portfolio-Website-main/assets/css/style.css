@@ -1266,3 +1266,27 @@ header .navbar ul li a:hover {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+@media (max-width: 768px) {
+  .socials .social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding-left: 0;
+    margin-top: 2rem;
+  }
+
+  .socials .social-icons li {
+    margin: 0;
+  }
+
+  .social-icons a {
+    margin: 0; /* Remove margin-right to prevent overflow */
+  }
+
+  .home .image img {
+    margin-left: auto; /* Center image on small screens */
+    margin-right: auto;
+    display: block;
+  }
+}
