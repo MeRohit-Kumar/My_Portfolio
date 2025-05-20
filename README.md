@@ -1,4 +1,6 @@
 # Portfolio Website
+![image](https://github.com/user-attachments/assets/d0c74972-2568-424f-bf5d-2b827ee49207)
+
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It highlights my profile, skills, projects, and contact information.
 
