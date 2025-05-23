@@ -29,6 +29,26 @@
     "view": "",
     "code": "https://github.com/MeRohit-Kumar/Spotify_clone"
   }
+},
+{
+  "name": "Background Color Changer",
+  "desc": "A simple web project that allows users to change the background color of the page with a click of a button",
+  "image": "Bgcolor",
+  "category": "basicweb",
+  "links": {
+    "view": "",
+    "code": "https://github.com/MeRohit-Kumar/Background-color-changer"
+  }
+},
+{
+  "name": "Conversa Areal Time chat Application",
+  "desc": "Conversa is a real-time chat application built with the MERN stack, enabling instant messaging.",
+  "image": "Chat Application",
+  "category": "MERN",
+  "links": {
+    "view": "",
+    "code": "https://github.com/MeRohit-Kumar/Conversa--A-Real-Time-chat-Application"
+  }
 }
 
 ]
