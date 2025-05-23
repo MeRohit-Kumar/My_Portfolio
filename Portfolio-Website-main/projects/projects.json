@@ -12,14 +12,23 @@
   },
 {
   "name": "Library Management system",
-  "desc": "This is a console-based Library Management System written in Python. It allows users to perform basic library operations such as listing available books, borrowing and returning books, and donating new books.",
-  "image": "Library.png",
+  "desc": "This is a console-based Library Management System written in Python.",
+  "image": "Library",
   "category": "basicweb",
   "links": {
-    "view": "#",
+    "view": "",
     "code": "https://github.com/MeRohit-Kumar/LibraryManagementSystem"
   }
+},
+{
+  "name": "Spotify clone",
+  "desc": "A web-based music streaming application that replicates the core features of Spotify.",
+  "image": "Spotify",
+  "category": "basicweb",
+  "links": {
+    "view": "",
+    "code": "https://github.com/MeRohit-Kumar/Spotify_clone"
+  }
 }
-
 
 ]
