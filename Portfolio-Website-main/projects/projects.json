@@ -41,10 +41,10 @@
   }
 },
 {
-  "name": "Conversa Areal Time chat Application",
+  "name": "Conversa A chat Application",
   "desc": "Conversa is a real-time chat application built with the MERN stack, enabling instant messaging.",
   "image": "Chat Application",
-  "category": "MERN Stack",
+  "category": "mern",
   "links": {
     "view": "",
     "code": "https://github.com/MeRohit-Kumar/Conversa--A-Real-Time-chat-Application"
