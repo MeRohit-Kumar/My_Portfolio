@@ -10,6 +10,16 @@
       "code": "https://github.com/MeRohit-Kumar/My_Portfolio"
     }
   },
+  {
+  "name": "Conversa A chat Application",
+  "desc": "Conversa is a real-time chat application built with the MERN stack, enabling instant messaging.",
+  "image": "Chat Application",
+  "category": "mern",
+  "links": {
+    "view": "",
+    "code": "https://github.com/MeRohit-Kumar/Conversa--A-Real-Time-chat-Application"
+  }
+},
 {
   "name": "Library Management system",
   "desc": "This is a console-based Library Management System written in Python.",
@@ -41,13 +51,13 @@
   }
 },
 {
-  "name": "Conversa A chat Application",
-  "desc": "Conversa is a real-time chat application built with the MERN stack, enabling instant messaging.",
-  "image": "Chat Application",
-  "category": "mern",
+  "name": "Analog Clock",
+  "desc": "Analog Clock is a web-based project using HTML, CSS, and JavaScript to display real-time time with moving hands. ",
+  "image": "Analog Clock",
+  "category": "basicweb",
   "links": {
     "view": "",
-    "code": "https://github.com/MeRohit-Kumar/Conversa--A-Real-Time-chat-Application"
+    "code": "https://github.com/MeRohit-Kumar/analog-clock"
   }
 }
 
