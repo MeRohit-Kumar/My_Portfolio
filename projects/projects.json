@@ -54,7 +54,7 @@
   "name": "Analog Clock",
   "desc": "Analog Clock is a web-based project using HTML, CSS, and JavaScript to display real-time time with moving hands. ",
   "image": "Analog Clock",
-  "category": "basicweb",
+  "category": "mern",
   "links": {
     "view": "",
     "code": "https://github.com/MeRohit-Kumar/analog-clock"
